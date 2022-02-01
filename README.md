@@ -1,2 +1,2 @@
-# text-detection
+# Text Detection
 OCR implementation to detect text from images
